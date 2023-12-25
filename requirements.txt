@@ -1,0 +1,8 @@
+scrapy
+torch
+clip
+torchvision
+streamlit
+qdrant-client
+boto3
+Pillow
